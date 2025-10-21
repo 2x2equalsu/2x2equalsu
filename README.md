@@ -1,6 +1,13 @@
 ## 
 
 <div align="center">
+
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/afefc9c3-fc96-48ca-b8b9-cc2d9ad7d496"/>
+
+
+![guidestuck-homestuck](https://github.com/user-attachments/assets/c95b2ddb-4d8e-44a8-9964-5b49c9b032d4)
+
+
   <center><h1>yeah read this for a second</h1></center>
 </div>
 
@@ -10,8 +17,7 @@
 
 <b>hi hello</b>
 
-# read
-
+# <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/afefc9c3-fc96-48ca-b8b9-cc2d9ad7d496"/> read <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/afefc9c3-fc96-48ca-b8b9-cc2d9ad7d496"/>
   
 <p class="centered"> i'm playing ponytown a lot so i thought i'd make a rep </p>
 <p class="centered"> i don't care who interacts with me. i'm 19 so if you're below 16 i don't mind chatting but maybe don't ask for further socials </p>
@@ -45,4 +51,9 @@
 
 <img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/4d8291e9-8f49-4626-822c-e72f6fb403de" />
 <img width="99" height="59" alt="image" src="https://github.com/user-attachments/assets/395cd7fd-2e70-42a8-bdca-65988f7b1b6d" />
+
+![homestuck-cosplay](https://github.com/user-attachments/assets/dab5db4b-d608-4fd1-a395-d142e29b7c36)
+
+
+
 </div>
