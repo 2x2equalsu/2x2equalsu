@@ -22,6 +22,7 @@
 <p class="centered"> i'm playing ponytown a lot so i thought i'd make a rep </p>
 <p class="centered"> i don't care who interacts with me. i'm 19 so if you're below 16 i don't mind chatting but maybe don't ask for further socials </p>
 <p class="centered"> speaking of which if you wanna talk to me outside of the game just ask for my disc</p>
+<p> come visit my island though i'm mighty proud of it </p>
 <p> alright take care </p>
 
 
