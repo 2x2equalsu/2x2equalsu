@@ -55,6 +55,8 @@
 
 ![homestuck-cosplay](https://github.com/user-attachments/assets/dab5db4b-d608-4fd1-a395-d142e29b7c36)
 
-
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/afefc9c3-fc96-48ca-b8b9-cc2d9ad7d496"/>
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/afefc9c3-fc96-48ca-b8b9-cc2d9ad7d496"/>
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/afefc9c3-fc96-48ca-b8b9-cc2d9ad7d496"/>
 
 </div>
