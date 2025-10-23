@@ -20,6 +20,7 @@
 # <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/afefc9c3-fc96-48ca-b8b9-cc2d9ad7d496"/> read <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/afefc9c3-fc96-48ca-b8b9-cc2d9ad7d496"/>
   
 <p class="centered"> i'm playing ponytown a lot so i thought i'd make a rep </p>
+<p> i mostly have the game on in the bg so whisper me if you want my attention so i'll get the alert </p>
 <p class="centered"> i don't care who interacts with me. i'm 19 so if you're below 16 i don't mind chatting but maybe don't ask for further socials </p>
 <p class="centered"> speaking of which if you wanna talk to me outside of the game just ask for my disc</p>
 <p> come visit my island though i'm mighty proud of it </p>
