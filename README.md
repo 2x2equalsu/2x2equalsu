@@ -26,9 +26,9 @@
 <p> come visit my island though i'm mighty proud of it </p>
 <p> alright take care </p>
 
-
+ 
 ![jasprose](https://github.com/user-attachments/assets/12aee8fa-898b-4e94-a472-586be2b01ad1)
-
+<img width="188" height="240" alt="image" src="https://github.com/user-attachments/assets/e01e4f20-2d60-4af4-ab5a-9c635be56bd3" />
 
 
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/c64295a8-4412-46b9-9fd6-ba2510152614" />
@@ -47,6 +47,12 @@
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/bb18e5b3-70e1-41e9-9b67-dddc4b968134" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/5d66cd66-db01-40cb-a786-e79f5d26cf1f"/>
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/af94e362-9dba-449a-8d5d-77e6197f1e64" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/7da55666-4901-4e20-9d86-5566e0da5a39"/>
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/bf9c7edc-adae-493b-8dd6-8cde49b04148" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/135bde51-ff00-4610-af2e-f382bdb8eab4" />
+
+
+
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/5013dfc7-f93a-4d5e-8b73-bebdf509ab13"/>
 <img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/4c241cdd-946a-4a75-a174-6a719eb17474" />
 
