@@ -7,6 +7,8 @@
 
 ![guidestuck-homestuck](https://github.com/user-attachments/assets/c95b2ddb-4d8e-44a8-9964-5b49c9b032d4)
 
+![becblinkie](https://github.com/user-attachments/assets/df7a313c-90ad-4c68-a0aa-46a545a96660)
+
 
   <center><h1>yeah read this for a second</h1></center>
 </div>
