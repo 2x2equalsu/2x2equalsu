@@ -28,38 +28,18 @@
 <p> come visit my island though i'm mighty proud of it </p>
 <p> alright take care </p>
 
- 
-![jasprose](https://github.com/user-attachments/assets/12aee8fa-898b-4e94-a472-586be2b01ad1)
-<img width="188" height="240" alt="image" src="https://github.com/user-attachments/assets/e01e4f20-2d60-4af4-ab5a-9c635be56bd3" />
 
+<div align="center">
 
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/c64295a8-4412-46b9-9fd6-ba2510152614" />
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/f3ef4842-0bc5-4348-aa53-fbd8d13e8642" />
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/f753708b-ddcc-46a9-9fab-7f1ad3c3418c" />
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/6965ad1b-968d-4e25-9d74-581db64d130e" />
-<img width="100" height="56" alt="image" src="https://github.com/user-attachments/assets/84bc2c02-eb6a-4fb1-96e8-63ac3a7bee69"/>
-<img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/04cedea3-de24-4ef6-a63c-c1b5298bebac" />
-<img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/5eff0bd8-191a-4112-9fa1-93db45ac35a0"/>
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/e32e041d-2e32-41d1-bb60-4d84bf21c83a" />
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/b7bb8b7e-4973-434a-b1ad-6dfdf709e027" />
-<img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/44ec2489-8e33-42e3-bf88-e7cd2d5fbd48" />
-<img width="101" height="58" alt="image" src="https://github.com/user-attachments/assets/bcd68880-05a0-48d7-9d1a-d2bab92a3954"/>
-<img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/c3c97ce6-026d-4d15-b5be-89ec385de1ed" />
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/746ad2e1-2499-45e4-b6d1-4a0b6cf0c594" />
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/bb18e5b3-70e1-41e9-9b67-dddc4b968134" />
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/5d66cd66-db01-40cb-a786-e79f5d26cf1f"/>
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/af94e362-9dba-449a-8d5d-77e6197f1e64" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/364537f2-b212-4fff-81e5-cda303aa108d"/>
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/7da55666-4901-4e20-9d86-5566e0da5a39"/>
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/bf9c7edc-adae-493b-8dd6-8cde49b04148" />
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/135bde51-ff00-4610-af2e-f382bdb8eab4" />
-<img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/149e45e0-9eb8-46d7-bfbe-b6b0ed5a2921" />
 <img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/829c28f9-b1bf-4992-9c9e-a30e4fb2abd8"/>
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/5013dfc7-f93a-4d5e-8b73-bebdf509ab13"/>
-<img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/4c241cdd-946a-4a75-a174-6a719eb17474" />
-<img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/a45116aa-98ba-42e6-ae6f-aaca5ba9b17a"/>
-<img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/4d8291e9-8f49-4626-822c-e72f6fb403de" />
-<img width="99" height="59" alt="image" src="https://github.com/user-attachments/assets/395cd7fd-2e70-42a8-bdca-65988f7b1b6d" />
+
+</div>
+
+
+
 
 ![homestuck-cosplay](https://github.com/user-attachments/assets/dab5db4b-d608-4fd1-a395-d142e29b7c36)
 
