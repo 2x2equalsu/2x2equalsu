@@ -9,7 +9,7 @@
 
 ![becblinkie](https://github.com/user-attachments/assets/df7a313c-90ad-4c68-a0aa-46a545a96660)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j2xxpdapvwyf3dl2x4lzq67gue&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=bf4f4f)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j2xxpdapvwyf3dl2x4lzq67gue&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=bf4f4f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   <center><h1>yeah read this for a second</h1></center>
 </div>
